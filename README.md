@@ -36,4 +36,4 @@ A production-ready Flutter mobile application for controlling Atomberg smart fan
 
 ## 🏗️ Architecture
 
-This app follows **Clean Architecture** principles:
+This app follows **Clean Architecture** principles
